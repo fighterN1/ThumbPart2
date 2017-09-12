@@ -1,0 +1,1 @@
+UPDATE `DBThumb`.`tbthumb` SET `ID`='1' WHERE `ID`='1' and`UserID`='user1';
